@@ -1,5 +1,6 @@
-# Angry Birds Inspired Physics Simulation
+# CSCI 3010U - Simulation & Modelling Project
 
+### Angry Birds Inspired Physics Simulation
 A physics-based projectile simulation inspired by the popular Angry Birds game. This project demonstrates principles of 2D physics including projectile motion, collision detection, and realistic object interactions.
 
 ![Game Screenshot](screenshot.png)
@@ -32,6 +33,8 @@ cd angry-birds-simulation
 ```bash
 pip install pygame
 ```
+
+This 
 
 3. Run the game:
 

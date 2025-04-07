@@ -40,9 +40,9 @@ background_img = pygame.transform.scale(background_img, (WIDTH, HEIGHT-10))
 
 # Bird sprites
 bird_imgs = [
-    pygame.transform.scale(pygame.image.load("./assets/images/bird1.png"), (35, 35)),
-    pygame.transform.scale(pygame.image.load("./assets/images/bird2.png"), (35, 35)),
-    pygame.transform.scale(pygame.image.load("./assets/images/bird3.png"), (35, 35))
+    pygame.transform.scale(pygame.image.load("bird1.png"), (35, 35)),
+    pygame.transform.scale(pygame.image.load("bird2.png"), (35, 35)),
+    pygame.transform.scale(pygame.image.load("bird3.png"), (35, 35))
 ]
 current_bird_img = bird_imgs[0]
 bird_radius = 17
